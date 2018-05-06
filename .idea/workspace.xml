@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bddb6b6-85a9-46a3-bbf6-ed5cdb83bc6b" name="Default" comment="" />
+    <list default="true" id="2bddb6b6-85a9-46a3-bbf6-ed5cdb83bc6b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Data_Visualization/Prerequisites/SelectingAndFilteringInPandas/SelectingAndFiltering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Visualization/Prerequisites/.ipynb_checkpoints/AccessingDataWithPandas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/AccessingDataWithPandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Visualization/input/parks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/input/parks.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Visualization/input/species.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/input/species.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Visualization/input/species.csv.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/input/species.csv.zip" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,9 +19,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="parks.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data_Visualization/input/parks.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="AccessingDataWithPandas.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/AccessingDataWithPandas.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectingAndFiltering-checkpoint.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/SelectingAndFilteringInPandas/.ipynb_checkpoints/SelectingAndFiltering-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectingAndFiltering.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/SelectingAndFilteringInPandas/SelectingAndFiltering.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -34,11 +64,14 @@
         <option value="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
         <option value="$PROJECT_DIR$/Data_Visualization/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
         <option value="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas.ipynb" />
+        <option value="$PROJECT_DIR$/Data_Visualization/Prerequisites/SelectingAndFilteringInPandas/SelectingAndFiltering.ipynb" />
+        <option value="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/AccessingDataWithPandas.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="303" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="463" />
+    <option name="y" value="69" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
@@ -71,13 +104,29 @@
               <item name="Kaggle_Courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kaggle_Courses" type="462c0819:PsiDirectoryNode" />
               <item name="Data_Visualization" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="Prerequisites" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kaggle_Courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kaggle_Courses" type="462c0819:PsiDirectoryNode" />
               <item name="Data_Visualization" type="462c0819:PsiDirectoryNode" />
               <item name="Prerequisites" type="462c0819:PsiDirectoryNode" />
+              <item name="AccessingDataWithPandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Courses" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="Prerequisites" type="462c0819:PsiDirectoryNode" />
+              <item name="SelectingAndFilteringInPandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaggle_Courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaggle_Courses" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Visualization" type="462c0819:PsiDirectoryNode" />
+              <item name="Prerequisites" type="462c0819:PsiDirectoryNode" />
+              <item name="SelectingAndFilteringInPandas" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,6 +136,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas" />
+      <recent name="$PROJECT_DIR$/Data_Visualization/Prerequisites" />
       <recent name="$PROJECT_DIR$/Data_Visualization" />
     </key>
   </component>
@@ -134,16 +185,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="463" y="69" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12629071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45671168" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32843137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5392157" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.5392157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -159,13 +211,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data_Visualization/Untitled.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -180,8 +225,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Visualization/input/parks.csv">
+    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/.ipynb_checkpoints/AccessingDataWithPandas-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/input/parks.csv">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/SelectingAndFilteringInPandas/.ipynb_checkpoints/SelectingAndFiltering-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/SelectingAndFilteringInPandas/SelectingAndFiltering.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Visualization/Prerequisites/AccessingDataWithPandas/AccessingDataWithPandas.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
